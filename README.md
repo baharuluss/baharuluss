@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baharuluss&show_icons=true&locale=en" alt="baharuluss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baharuluss&" alt="baharuluss" /></p>
-- ⚡ Fun fact **In the world of coding, coffee is the magical potion that turns "Hello World" into a masterpiece, and stack overflow isn't just a website; it's a way of life! ☕🔮 Remember, with great code comes great caffeine intake! 🚀👨‍💻**
+- ⚡ Fun fact In the world of coding, coffee is the magical potion that turns "Hello World" into a masterpiece, and stack overflow isn't just a website; it's a way of life! ☕🔮 Remember, with great code comes great caffeine intake! 🚀👨‍💻
 
