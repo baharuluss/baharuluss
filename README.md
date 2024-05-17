@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharuluss&label=Profile%20views&color=0e75b6&style=flat" alt="baharuluss" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Flutter, C#, Python**
 
 - 📫 How to reach me **baharuluss1@gmail.com**
 
